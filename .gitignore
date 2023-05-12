@@ -1,0 +1,23 @@
+# Specific Files
+tokens.py
+config.toml
+config.json
+google_key.json
+db/BaseUrls.py
+
+# Folders
+venv/
+db/languages/
+db/images/
+# core/
+logs/
+# cogs/tests/
+tokens.json
+
+# File Extensions
+*.pyc
+*.sql
+*.txt
+*.json
+*.toml
+*.mp4
